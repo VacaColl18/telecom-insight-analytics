@@ -79,7 +79,7 @@ El repositorio está organizado de la siguiente manera:
 
 - **pbi:** Carpeta que contiene los archivos excel utilizados en el dashboard interactivo de Power BI.
 
-- **notebooks:** ETL: contiene la limpieza de los datos y armado de nuevos dataframes. EDA: contiene el analisis exploratorio de datos y las visualizaciones.
+- **notebooks:** ETL: contiene la limpieza de los datos y armado de nuevos dataframes. EDA: contiene el analisis exploratorio de datos, visualizaciones y primeras conclusiones.
 
 Feedback:
 
