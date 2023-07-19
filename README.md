@@ -35,7 +35,7 @@ El mismo se desarrolló en caracter educativo y no representa una recomendación
 
 **Visualizaciones:**
 
-En el analisis exploratorio, se han utilizado diferentes visualizaciones para representar los datos y resaltar los insights obtenidos. A continuación se muestran algunas de las visualizaciones utilizadas:
+En el analisis exploratorio, se han utilizado diferentes visualizaciones para representar los datos y resaltar los insights obtenidos durante el analisis. Los mismos se pueden encontrar en el notebook `EDA.ipybn´.
 
 **Recomendaciones y Próximos Pasos:**
 
