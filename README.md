@@ -1,6 +1,7 @@
 **Proyecto de Análisis de Acceso a Internet en Argentina**
 
 Este proyecto tiene como objetivo analizar el acceso a Internet en Argentina y proporcionar información sobre la evolución de la cantidad de habitantes con acceso a Internet, las tecnologías de conexión más utilizadas y la distribución de las velocidades de conexión en el país.
+El mismo se desarrollo en caracter educativo y no representa una recomendacion o sugerencia de inversion.
 
 **Conjuntos de datos utilizados:**
 
