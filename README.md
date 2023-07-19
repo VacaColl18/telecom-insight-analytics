@@ -52,9 +52,9 @@ Basado en los hallazgos y conclusiones del análisis exploratorio de datos, se p
 
 1. **Cobertura de fibra óptica en la provincia de Córdoba:** Medir el porcentaje de hogares en la provincia de Córdoba que tienen acceso a Internet a través de fibra óptica. El objetivo es aumentar esta cobertura para mejorar la velocidad y calidad de conexión en la provincia.
 
-2. **Accesos por cada 100 hogares en provincias con baja conexión:** Seguimiento de la cantidad de accesos por cada 100 hogares en provincias como Chaco. El objetivo es aumentar esta cifra para garantizar un mayor acceso a Internet en estas regiones.
+2. **Accesos por cada 100 hogares en la provincia de Chaco:** Seguimiento de la cantidad de accesos por cada 100 hogares en la provincia de Chaco. El objetivo es aumentar esta cifra para garantizar un mayor alcance. 
 
-3. **Porcentaje de conexiones de alta velocidad:** Medir el porcentaje de conexiones de Internet que superan los 30 Mbps, especialmente en provincias donde la velocidad de conexión es baja, como Corrientes. El objetivo es aumentar este porcentaje para proporcionar una mejor experiencia de navegación.
+3. **Conexiones de mas de 30mb en Corrientes:** Medir el porcentaje de conexiones de Internet que superan los 30 Mbps, especialmente en provinciasla provincia de Corrientes donde la velocidad de conexión es baja. El objetivo es aumentar este porcentaje para proporcionar una mejor experiencia de navegación.
 
 **Herramientas y Tecnologías utilizadas:**
 
